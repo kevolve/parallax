@@ -1,0 +1,6 @@
+---
+title: "<center><div class='mytitle'>R Markdown output with parallax</div></center>"
+author: "<center><div class='mysubtitle'>See Yan's original Rmd code on [github](https://github.com/holtzy/R-Markdown-Parallax/tree/master)! </div></center>"
+---
+
+testing...
