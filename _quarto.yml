@@ -23,11 +23,9 @@ website:
 format:
   html:
     theme: minty
-    css: styles.css
+    css: style.css
     toc: true
-
-# filters:
-#   - webr
+    include-before-body: header.html
 
 editor: source
 
