@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: auto
+
+website:
+  title: "The Evolution of Male-only Semelparity"
+  site-url: "https://kevolve.github.io/male-semelparity"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    right:
+      - text: "{{< iconify fa6-brands researchgate >}}"
+        href: "https://www.researchgate.net/profile/Kevin-Bairos-Novak/"
+      - text: "{{< iconify fa6-brands github >}}"
+        href: "https://github.com/kevolve/"
+  page-footer:
+    left: "&copy; Kevin R. Bairos-Novak, 2024"
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+# filters:
+#   - webr
+
+editor: source
+
