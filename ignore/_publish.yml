@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 37e93f4a-ef8e-4f4a-9562-c733f8737e09
+      url: 'https://kevolution.quarto.pub/quarto-parallax'

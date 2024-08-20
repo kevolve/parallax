@@ -1,13 +1,12 @@
 project:
   type: website
-  output-dir: docs
 
 execute:
   freeze: auto
 
 website:
-  title: "The Evolution of Male-only Semelparity"
-  site-url: "https://kevolve.github.io/male-semelparity"
+  title: "Quarto Parallax"
+  site-url: "https://kevolve.github.io/quarto-parallax"
   navbar:
     left:
       - href: index.qmd
